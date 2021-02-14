@@ -1,0 +1,8 @@
+  
+[build]
+  base = "./"
+  publish = "public/"
+  command = "yarn build"
+
+[template.environment]
+  REACT_APP_BACKEND_URL = "https://affiliate-strapi-rant.herokuapp.com"
