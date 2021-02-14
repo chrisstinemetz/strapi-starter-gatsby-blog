@@ -5,4 +5,4 @@
   command = "npm run build"
 
 [template.environment]
-  REACT_APP_BACKEND_URL = "https://affiliate-strapi-rant.herokuapp.com"
+  API_URL = "https://affiliate-strapi-rant.herokuapp.com"
